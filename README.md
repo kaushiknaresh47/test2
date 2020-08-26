@@ -1,1 +1,2 @@
-# THIS IS THE README FILE
+### Learning how to use Git, trial 2
+
